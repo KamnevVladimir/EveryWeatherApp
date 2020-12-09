@@ -11,7 +11,7 @@ To please your eye, there are two themes.
 
 ![twoThemes](https://s8.hostingkartinok.com/uploads/images/2020/12/4cefc427de591b40b2d8299392ce3716.png)
 
-*If you want to try them out, then just change the design to dark in the iPhone settings*
+*If you want to try them out, then just change the design to dark/light in the iPhone settings*
 
 When you start the phone, the temperature is immediately determined by your location. Don't forget to grant permission to track location on first launch.
 
@@ -29,3 +29,5 @@ When you start the phone, the temperature is immediately determined by your loca
 - MVC
 - The Delegate Design Pattern
 
+### EveryWeather app. in action
+![appInAction](https://s8.hostingkartinok.com/uploads/images/2020/12/f7446486c4a843729bfa4c22cf965796.jpg)
